@@ -12,8 +12,8 @@ import { Icon } from "@iconify/vue";
         <div
           class="bg-white bg-opacity-20 backdrop-blur-md p-5 rounded-lg text-textYellow"
         >
-          I've been doing web development for about 1.5 years now, and I'm
-          always eager to learn more in this fast paced industry.
+          I've been doing web development for over 3 years now, and I'm always
+          eager to learn more in this fast paced industry.
         </div>
       </div>
       <!-- skillset divstart -->
